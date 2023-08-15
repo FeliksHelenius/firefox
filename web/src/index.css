@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#app {
+	position: relative;
+	background: #2b2a33;
+	width: 100svw;
+	height: 100svh;
+}

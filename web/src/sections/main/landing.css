@@ -1,0 +1,33 @@
+#landing {
+	display: flex;
+	position: relative;
+	width: 100svw;
+	height: 100svh;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 2.5rem;
+}
+
+.logo-wrapper {
+	display: flex;
+	gap: 0.8rem;
+	align-items: center;
+}
+
+.searchbar-wrapper input {
+	width: 38rem;
+	padding: 1rem;
+	border-radius: 0.5rem;
+	background-color: #42414d;
+	border: none;
+	color: #fff;
+	font-weight: 550;
+}
+
+.logo1 {
+	height: 5rem;
+}
+.logo2 {
+	height: 1.8rem;
+}

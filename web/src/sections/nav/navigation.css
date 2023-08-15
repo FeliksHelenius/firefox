@@ -1,0 +1,19 @@
+#navigation {
+	display: grid;
+	position: absolute;
+	width: 100svw;
+	height: fit-content;
+	background-color: #2b2a33;
+}
+.settings-button-wrapper {
+	justify-self: end;
+	padding: 1rem;
+}
+.icon {
+	height: 1rem;
+	padding: 0.25rem;
+	border-radius: 0.25rem;
+}
+.icon:hover {
+	background-color: #55555c;
+}
